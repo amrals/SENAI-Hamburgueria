@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\41813664803\\Documents\\Hamburgueria\\Hamburgueria.csproj",
+      "projectUniqueName": "c:\\Users\\41813664803\\Documents\\Hamburgueria\\SENAI-Hamburgueria\\Hamburgueria.csproj",
       "projectName": "Hamburgueria",
-      "projectPath": "C:\\Users\\41813664803\\Documents\\Hamburgueria\\Hamburgueria.csproj",
+      "projectPath": "c:\\Users\\41813664803\\Documents\\Hamburgueria\\SENAI-Hamburgueria\\Hamburgueria.csproj",
       "packagesPath": "C:\\Users\\41813664803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\41813664803\\Documents\\Hamburgueria\\obj\\",
+      "outputPath": "c:\\Users\\41813664803\\Documents\\Hamburgueria\\SENAI-Hamburgueria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
